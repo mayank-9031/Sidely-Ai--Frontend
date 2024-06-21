@@ -1,0 +1,17 @@
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.vbproj.AssemblyReference.cache
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.CreateSubmissionForm.resources
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.MainForm.resources
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.Resources.resources
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.ViewSubmissionsForm.resources
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.vbproj.GenerateResource.cache
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.vbproj.CoreCompileInputs.cache
+C:\Users\deevansho\source\repos\SidelyForm\bin\Debug\SidelyForm.exe.config
+C:\Users\deevansho\source\repos\SidelyForm\bin\Debug\SidelyForm.exe
+C:\Users\deevansho\source\repos\SidelyForm\bin\Debug\SidelyForm.pdb
+C:\Users\deevansho\source\repos\SidelyForm\bin\Debug\SidelyForm.xml
+C:\Users\deevansho\source\repos\SidelyForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\deevansho\source\repos\SidelyForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.vbproj.Up2Date
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.exe
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.xml
+C:\Users\deevansho\source\repos\SidelyForm\obj\Debug\SidelyForm.pdb
